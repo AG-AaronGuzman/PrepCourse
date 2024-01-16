@@ -1,2 +1,3 @@
-# PrepCourse
-Este es un repositorio prueba
+Aaron Guzman
+
+Proyecto para hacer pruebas de repositorio
